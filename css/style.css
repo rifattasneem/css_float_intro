@@ -1,0 +1,61 @@
+.header{
+	background-color: #5482ae;
+	min-height: 100px;
+}
+
+.parent{
+	/*border: 5px solid black;*/
+	overflow: hidden;
+}
+.child1{
+	background-color: #427642;
+	min-height: 200px;
+	width: 65%;
+	float: left;
+}
+.child2{
+	background-color: #8ea48e;
+	min-height: 200px;
+	width: 35%;
+	float: right;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+.box{
+	min-height: 200px;
+	float: left;
+}
+.box1{
+	background-color: #116666;
+	width: 25%;
+}
+.box2{
+	background-color: teal;
+	width: 45%;
+}
+.box3{
+	background-color: #5aa2a2;
+	width: 30%;
+}
+.container{
+	overflow: hidden;
+}
+.stuff1{
+	background-color: #683d6a;
+	min-height: 175px;
+	width: 45%;
+	float: left;
+}
+.stuff2{
+	background-color: #422c58;
+	min-height: 175px;
+	width: 55%;
+	float: right;
+}
+
+.footer{
+	background-color: #303130;
+	min-height: 100px;
+}
